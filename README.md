@@ -3,6 +3,8 @@
 Details:
 https://en.wikipedia.org/wiki/Wien_bridge_oscillator
 
+Generator is made on the SMD-components with TL084C OpAmp and JFET used in feedback regulator .
+
 Repository contains:
 
 * Qucs model
