@@ -12,6 +12,5 @@ Repository contains:
 * PCB routing created by TopoR
 
 ![Scheme](Scheme.png)
-![Front](Sine_generator_front.png)
-![Rear](Sine_generator_rear.png)
+![Front](Sine_generator_front.png)![Rear](Sine_generator_rear.png)
 ![Photo](Photo.jpeg)
